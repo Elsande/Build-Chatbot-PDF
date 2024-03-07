@@ -6,8 +6,8 @@ body {
 
 /* Dark mode */
 .dark-mode {
-  background-color: #121717;
-  color: #c9c9c9;
+  background-color: #020023;
+  color: #f3f3f3;
 }
 
 #chat-window {
@@ -51,11 +51,11 @@ body {
 }
 
 .message-box.my-text.dark {
-  background-color: #0f4c9e;
+  background-color: #120543;
 }
 
 .message-box.dark {
-  background-color: #263443;
+  background-color: #120543;
 }
 
 /* Input container */
@@ -127,7 +127,7 @@ body {
 }
 
 #upload-button:hover {
-  background-color: #0056b3;
+  background-color: #125ee5;
 }
 
 .send i {
